@@ -1,0 +1,45 @@
+body {background-color: aqua;
+
+}
+div { border: 5px;
+}
+ #header {
+    position: fixed;
+    z-index: 1;
+height: 40px;
+width: 98%;
+background-color: rgb(228, 172, 89);
+margin-bottom: 10px;
+}
+#name {
+    float: left;
+    margin: 20px;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+#email {
+    float:right; 
+    margin: 20px;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(152, 96, 204);
+}
+#contact {
+    float:right; 
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(152, 96, 204);
+}
+
+h3 {text-decoration: underline;
+}
+
+table { border:1 px dashed black ; 
+
+}
+td {
+padding: 2px;
+border: 1px solid #e88741;
+}
